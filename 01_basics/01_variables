@@ -8,3 +8,5 @@ accountPassword= "1122334"
 accountCity= "Karachi"
 
 console.table([accountNo, accountEmail, accountPassword, accountCity])
+
+console.log([accountNo, accountEmail, accountPassword, accountCity])
