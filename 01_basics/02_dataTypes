@@ -5,7 +5,7 @@
 console.log(3+3) //Code readablity should be high
 console.log("Hamza");
 
-let name = "Hello"
+let userName = "Hello"
 let age = 18
 let isLoggedIn = true
 
@@ -20,4 +20,4 @@ let isLoggedIn = true
 
 //object
 
-console.log(typeof 19)
+console.log(typeof 19);
