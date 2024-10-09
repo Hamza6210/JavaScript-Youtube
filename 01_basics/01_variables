@@ -15,4 +15,4 @@ because of issue in block scope and functional scope
 
 console.table([accountNo, accountEmail, accountPassword, accountCity])
 
-console.log([accountNo, accountEmail, accountPassword, accountCity])
+console.log([accountNo, accountEmail, accountPassword, accountCity]) 
