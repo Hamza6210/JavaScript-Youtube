@@ -21,3 +21,4 @@ let isLoggedIn = true
 //object
 
 console.log(typeof 19);
+console.log(age);
