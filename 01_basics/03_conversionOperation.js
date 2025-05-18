@@ -14,7 +14,7 @@ let valueInNumber = Number (score)
 let isLoggedIn = 0;
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-// console.log(booleanIsLoggedIn);
+ //console.log(booleanIsLoggedIn);
 
 // 1=>true ;  0=>false
 // ""=> false;
@@ -25,7 +25,7 @@ let someNumber = 33;
 let stringNumber = String(someNumber)
 // console.log(stringNumber);
 
-console.log(typeof stringNumber);
+//console.log(typeof stringNumber);
 // 33=>string
 
 
@@ -33,5 +33,11 @@ console.log(typeof stringNumber);
 
 let value = 4;
 let negvalue = -value;
-console.log(negvalue);
+//console.log(negvalue);
 
+let number1 = "33"
+let number2 = "33abc"
+let zabar = Number(number2)
+console.log(zabar)
+console.log(typeof zabar)
+console.log(typeof number2)
