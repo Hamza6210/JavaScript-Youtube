@@ -41,3 +41,7 @@ let zabar = Number(number2)
 console.log(zabar)
 console.log(typeof zabar)
 console.log(typeof number2)
+
+let str1 ="Hello"
+let str2 = "World"
+console.log(str1 + str2)
