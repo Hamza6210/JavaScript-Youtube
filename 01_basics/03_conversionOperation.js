@@ -38,10 +38,23 @@ let negvalue = -value;
 let number1 = "33"
 let number2 = "33abc"
 let zabar = Number(number2)
-console.log(zabar)
-console.log(typeof zabar)
-console.log(typeof number2)
+// console.log(zabar)
+// console.log(typeof zabar)
+// console.log(typeof number2)
 
 let str1 ="Hello"
 let str2 = "World"
-console.log(str1 + str2)
+// console.log(str1 + str2)
+
+
+// console.log(typeof("1"+2))
+// console.log(typeof(1+"2"))
+// console.log(typeof("1" + 2 + 2))
+// console.log(typeof(1 + 2 +"2"))
+
+// console.log ((3+4)*5%3)
+
+
+console.log(true)
+console.log(+true)
+console.log(+"")
